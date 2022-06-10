@@ -20,7 +20,7 @@ This is promising for Louise’s play, so I will take it a step further and dete
 
 I created a PivotTable which displayed the outcomes of the theater campaigns based on the month that they launched. From this data set, most campaigns launched in May and also saw the highest success rate in reaching their goal. June was right behind, as the warmer months seemed to reach more successful outcomes than the colder months. More campaigns were launched in May and June and most were successful. Not as many campaigns were launched in the winter months such as November and December and almost as many campaigns that were successful also failed to reach their goal. 
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/105755095/173148474-c767de02-bf63-44eb-a15d-6e5480d97efb.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/105755095/173149295-01f4c90b-bfcd-4d04-94a7-f42f5f9ef44f.png)
 
 ### Analysis of Outcomes Based on Goals
 
